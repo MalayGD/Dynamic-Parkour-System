@@ -44,13 +44,5 @@ To make the Dynamic Parkour System work, it requires the importation of Cinemach
 
 [Documentation](https://github.com/knela96/Dynamic-Parkour-System/blob/Git-Pages/docs/Downloads/DynamicParkourSystem_Documentation.pdf)
 
-## Troubleshooting
-If you have any problem or find any bug report it in the Official Repository inside [Issues](https://github.com/knela96/Dynamic-Parkour-System/issues) section
-
-## Contact Me
-Website: [ericcanela.com](https://ericcanela.com)
-
-Twitter: [@Knela96](https://twitter.com/knela96)
-
 ## External Sources
 Animations and Model from [Mixamo](https://www.mixamo.com/)
